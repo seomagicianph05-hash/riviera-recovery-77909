@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seomagicianph05-hash.github.io/riviera-recovery-77909/sitemap.xml
